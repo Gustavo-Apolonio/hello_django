@@ -1,0 +1,3 @@
+# ignore SECRET_KEY
+
+hello_django/constants.py
